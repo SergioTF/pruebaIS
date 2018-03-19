@@ -69,7 +69,7 @@ public class Calculadora {
 		jpnPantallaPrincipal.add(jtfResultado, "North");
 		
 		
-		//////////BOTONES
+		//////////BOTONES acho
 		
 		jbtboton7=new JButton();
 		jbtboton7.setText(" 7 ");
